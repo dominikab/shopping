@@ -1,0 +1,133 @@
+
+.content {
+    padding: 0 0.938rem;
+    margin: 0 auto;
+    margin-bottom:90px;
+}
+
+.top-navigation {
+    background-color: #fff;
+    position: fixed;
+    width: 100%;
+    border-bottom: 1px solid #DDD;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+}
+.introduction {
+    background-image: url('../images/veggies.png');
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60rem;
+    overflow: auto;
+}
+
+#leftplacement{
+	float: left;
+	margin: -150px auto;
+}
+
+#rightplacement {
+	float: right;
+  margin: -150px auto;
+}
+
+#text {
+	text-align:center;
+	margin: 10px auto;
+	font-size: 50px;
+	color: gray;
+}
+
+.container {
+	margin: 0 auto;
+    margin-top: 400px;
+    width: 65%;
+
+    background-image: url('../images/notepad.png');
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.input {
+    border-radius: 2px;
+    text-align: center;
+
+
+
+}
+
+
+
+h1 {text-align: center;
+	padding-top: 40px;
+	font-size: 50px;
+}
+
+#input-stuff {
+    height: 30px;
+    width: 200px;
+
+}
+
+#increment {
+	width: 140 px;
+
+    text-shadow: none;
+    border-style: none;
+    border-radius: 4px;
+
+    
+    font-size: 20px;
+    margin: 0 auto;
+    
+
+
+}
+
+#list{
+    font-size: 40px;
+    text-align: left;
+    display: inline-block;
+    list-style: none;
+}
+
+.box{
+    float: right;
+    float: left;
+    margin-top: 10px;
+    margin-right: 30px;
+    height: 20px;
+    width: 20px;
+    background-image: url('../images/box.png');
+}
+
+
+.Crossed {
+    float: right;
+    float: left;
+    margin-top: 10px;
+    margin-right: 30px;
+    height: 20px;
+    width: 20px;
+    background-image: url('../images/tick.png');	
+}
+
+.item {
+	float: right;
+	text-shadow: none;
+    border-style: none;
+    border-radius: 4px;
+    font-size: 12px;
+    margin: 0 auto;
+}
+
+
+
+
+
